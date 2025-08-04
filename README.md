@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-Final-year Computer Science and Engineering student at **Sri Vasavi Engineering College** (CGPA: 9.15).  
+Final-year Computer Science and Engineering student at **Sri Vasavi Engineering College** (CGPA: 9.2).  
 Passionate about web and machine learning projects.  
 AWS Certified Cloud Practitioner & MERN Stack Developer[2][8].  
 Location: Tadepalligudem, Andhra Pradesh.
