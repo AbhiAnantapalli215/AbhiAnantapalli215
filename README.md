@@ -104,18 +104,33 @@ const Me = {
 
 </div>
 
-<div align="center">
-  
-<img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AbhiAnantapalli215&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=AbhiAnantapalli215&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-<br/>
-<img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AbhiAnantapalli215&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<!-- GitHub Stats + Contribution Streak -->
+<p align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=AbhiAnantapalli215&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Stats"/>
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiAnantapalli215&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
+</p>
 
-</div>
+<!-- Top Languages -->
+<p align="center">
+  <img width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiAnantapalli215&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiAnantapalli215&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
+<!-- Profile Summary Card -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiAnantapalli215&theme=tokyonight" width="90%" alt="GitHub Profile Summary"/>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiAnantapalli215&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" alt="Activity Graph"/>
+</p>
+
+<!-- Pinned Repositories -->
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiAnantapalli215&repo=attrisense&theme=tokyonight" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiAnantapalli215&repo=resume&theme=tokyonight" />
+</p>
+
 
 ---
 
