@@ -102,24 +102,18 @@ const Me = {
 
 ## 📊 **GITHUB ANALYTICS** 📈
 
-<p align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=AbhiAnantapalli215&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Stats"/>
-</p>
 
 </div>
-<!-- GitHub Stats -->
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=AbhiAnantapalli215&show_icons=true&theme=react&count_private=true&border_radius=10&rank_icon=github" alt="GitHub Stats"/>
-</p>
 
-<!-- Top Languages -->
+<!-- GitHub Stats + Contribution Streak + Top Languages -->
 <p align="center">
+
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=AbhiAnantapalli215&show_icons=true&theme=react&count_private=true&border_radius=10&rank_icon=github" alt="GitHub Stats"/>
+
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiAnantapalli215&theme=radical&border_radius=10" alt="GitHub Streak"/>
+
   <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiAnantapalli215&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
-</p>
 
-<!-- Profile Summary Card -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiAnantapalli215&theme=tokyonight" width="90%" alt="GitHub Profile Summary"/>
 </p>
 
 <!-- Activity Graph -->
