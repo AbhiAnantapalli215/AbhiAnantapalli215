@@ -103,16 +103,14 @@ const Me = {
 ## 📊 **GITHUB ANALYTICS** 📈
 
 </div>
-
-<!-- GitHub Stats + Contribution Streak -->
+<!-- GitHub Stats -->
 <p align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=AbhiAnantapalli215&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Stats"/>
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiAnantapalli215&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=AbhiAnantapalli215&show_icons=true&theme=react&count_private=true&border_radius=10&rank_icon=github" alt="GitHub Stats"/>
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiAnantapalli215&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages"/>
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiAnantapalli215&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
 </p>
 
 <!-- Profile Summary Card -->
@@ -122,15 +120,8 @@ const Me = {
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiAnantapalli215&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiAnantapalli215&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="90%" alt="Activity Graph"/>
 </p>
-
-<!-- Pinned Repositories -->
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiAnantapalli215&repo=attrisense&theme=tokyonight" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiAnantapalli215&repo=resume&theme=tokyonight" />
-</p>
-
 
 ---
 
