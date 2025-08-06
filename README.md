@@ -102,6 +102,10 @@ const Me = {
 
 ## 📊 **GITHUB ANALYTICS** 📈
 
+<p align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=AbhiAnantapalli215&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Stats"/>
+</p>
+
 </div>
 <!-- GitHub Stats -->
 <p align="center">
