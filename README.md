@@ -1,47 +1,31 @@
 <div align="center">
 
-<h1>👋 Hey there! I'm Abhi 🤗</h1>
+<h1>👋 Hey there! I'm Abhishek</h1>
 
-<p align="center">
+<div align="center" style="text-decoration:none">
 
   <!-- Email -->
-  <a href="mailto:abhishekanantapalli@example.com" target="_blank" style="text-decoration:none; color:white;">
-    <div style="display:inline-block; text-align:center; background-color:#FF9900; color:white; padding:10px 15px; border-radius:10px; width:80px; margin:5px;">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="25" width="25" style="display:block; margin:auto; filter: invert(1);">
-      <span style="font-size:12px; font-weight:bold;">Email</span>
-    </div>
+  <a href="mailto:abhishekanantapalli@example.com" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Email-FF9900?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
-
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/abhishekanantapalli" target="_blank" style="text-decoration:none;">
-    <div style="display:inline-block; text-align:center; background-color:#0A66C2; color:white; padding:10px 15px; border-radius:10px; width:80px; margin:5px;">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="25" width="25" style="display:block; margin:auto; filter: invert(1);">
-      <span style="font-size:12px; font-weight:bold;">LinkedIn</span>
-    </div>
+  <a href="https://linkedin.com/in/abhishekanantapalli" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
   <!-- Portfolio -->
-  <a href="https://https://abhianantapalli.netlify.app" target="_blank" style="text-decoration:none;">
-    <div style="display:inline-block; text-align:center; background-color:#4EA94B; color:white; padding:10px 15px; border-radius:10px; width:80px; margin:5px;">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg" height="25" width="25" style="display:block; margin:auto; filter: invert(1);">
-      <span style="font-size:12px; font-weight:bold;">Portfolio</span>
-    </div>
+  <a href="https://abhianantapalli.netlify.app" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Portfolio-4EA94B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
-
 
   <!-- Resume -->
-  <a href="https://abhianantapalli215.github.io/Resume/resume.pdf" target="_blank" style="text-decoration:none;">
-    <div style="display:inline-block; text-align:center; background-color:#000000; color:white; padding:10px 15px; border-radius:10px; width:80px; margin:5px;">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="25" width="25" style="display:block; margin:auto; filter: invert(1);">
-      <span style="font-size:12px; font-weight:bold;">Resume</span>
-    </div>
+  <a href="https://abhianantapalli215.github.io/Resume/resume.pdf" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=github&logoColor=white" alt="Resume">
   </a>
 
-</p>
-
-
 </div>
+
 
 
 
@@ -52,13 +36,16 @@
 </div>
 
 <table align="center">
+  
 <tr>
 
 <td width="50%" align="center">
-
-  <pre align="left" style="width: 320px; margin: 0; padding: 10px; border-radius: 8px;">
-  <code>
+  
+<div align='left'>
+  
+```js
   const Me = {
+
     name : "D B Abhishek Anantapalli",
 
     role: "Full-Stack Developer",
@@ -67,12 +54,15 @@
 
     age: 20,
 
-    quailites: ["attention to detial" ,
-                "intuititive",
-                "good at problem solving"
+    quailites: ["Persistent" ,
+                "Attention to detail",
+                "Good problem solving"
                ]
-  };</code>
-  </pre>
+  };
+```
+
+</div>
+
 </td>
 
 <td width="50%" align="center">
@@ -161,9 +151,9 @@
 
 ## 📊 **GITHUB ANALYTICS** 📈
 
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiAnantapalli215&theme=react&border_radius=10" alt="GitHub Streak"/>
+<img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiAnantapalli215&theme=react&border_radius=10" alt="GitHub Streak"/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiAnantapalli215&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiAnantapalli215&layout=compact&theme=react&border_radius=10&hide_border=true" alt="Top Languages"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiAnantapalli215&theme=react&bg_color=1a1b27&hide_border=true" width="90%" alt="Activity Graph"/>
 
