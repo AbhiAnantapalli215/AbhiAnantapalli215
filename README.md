@@ -1,40 +1,97 @@
-<center> <h1> Hey there! I'm [Abhishek]</h1></center>
-
-
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abhishekanantapalli/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://abhianantapalli.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="mailto:abhishekanantapalli@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
-</a>
+<h1>👋 Hey there! I'm Abhi 🤗</h1>
+
+<p align="center">
+
+  <!-- Email -->
+  <a href="mailto:abhishekanantapalli@example.com" target="_blank" style="text-decoration:none; color:white;">
+    <div style="display:inline-block; text-align:center; background-color:#FF9900; color:white; padding:10px 15px; border-radius:10px; width:80px; margin:5px;">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="25" width="25" style="display:block; margin:auto; filter: invert(1);">
+      <span style="font-size:12px; font-weight:bold;">Email</span>
+    </div>
+  </a>
+
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/abhishekanantapalli" target="_blank" style="text-decoration:none;">
+    <div style="display:inline-block; text-align:center; background-color:#0A66C2; color:white; padding:10px 15px; border-radius:10px; width:80px; margin:5px;">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="25" width="25" style="display:block; margin:auto; filter: invert(1);">
+      <span style="font-size:12px; font-weight:bold;">LinkedIn</span>
+    </div>
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://https://abhianantapalli.netlify.app" target="_blank" style="text-decoration:none;">
+    <div style="display:inline-block; text-align:center; background-color:#4EA94B; color:white; padding:10px 15px; border-radius:10px; width:80px; margin:5px;">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg" height="25" width="25" style="display:block; margin:auto; filter: invert(1);">
+      <span style="font-size:12px; font-weight:bold;">Portfolio</span>
+    </div>
+  </a>
+
+
+  <!-- Resume -->
+  <a href="https://abhianantapalli215.github.io/Resume/resume.pdf" target="_blank" style="text-decoration:none;">
+    <div style="display:inline-block; text-align:center; background-color:#000000; color:white; padding:10px 15px; border-radius:10px; width:80px; margin:5px;">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="25" width="25" style="display:block; margin:auto; filter: invert(1);">
+      <span style="font-size:12px; font-weight:bold;">Resume</span>
+    </div>
+  </a>
+
+</p>
+
 
 </div>
 
 
+
+<div align="center">
+
+## ✨🎀 **ABOUT ME** 🎀✨
+
+</div>
+
+<table align="center">
+<tr>
+
+<td width="50%" align="center">
+
+  <pre align="left" style="width: 320px; margin: 0; padding: 10px; border-radius: 8px;">
+  <code>
+  const Me = {
+    name : "D B Abhishek Anantapalli",
+
+    role: "Full-Stack Developer",
+
+    location: "📍AndhraPradesh, India ",
+
+    age: 20,
+
+    quailites: ["attention to detial" ,
+                "intuititive",
+                "good at problem solving"
+               ]
+  };</code>
+  </pre>
+</td>
+
+<td width="50%" align="center">
+
+
+<img src="https://media.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="300" alt="Coding GIF">
+
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🚀 About Me
-
-```js
-const Me = {
-  name: "D B Abhishek Anantapalli",
-  role: "Full-Stack Developer",
-  location: "📍AndhraPradesh, India ",
-};
-
-```
----
 
 
 <div align="center">
 
-## 🛠️ **TECH STACK** ⚔️
+## ⚔️ **TECH STACK** 🛡️
 
 </div>
 
@@ -53,6 +110,7 @@ const Me = {
 
 </div>
 
+
 ### 🌐 **Frontend**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
@@ -66,6 +124,7 @@ const Me = {
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
+
 
 ### ⚡ **Backend**
 <div align="center">
@@ -82,7 +141,7 @@ const Me = {
 </div>
 
 
-### 🛠️ **Other Tools**
+### 🛠️ **Others**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=github,aws,docker,vscode" />
 </div>
@@ -102,27 +161,15 @@ const Me = {
 
 ## 📊 **GITHUB ANALYTICS** 📈
 
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiAnantapalli215&theme=react&border_radius=10" alt="GitHub Streak"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiAnantapalli215&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiAnantapalli215&theme=react&bg_color=1a1b27&hide_border=true" width="90%" alt="Activity Graph"/>
 
 </div>
 
-<!-- GitHub Stats + Contribution Streak + Top Languages -->
-<p align="center">
-
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=AbhiAnantapalli215&show_icons=true&theme=react&count_private=true&border_radius=10&rank_icon=github" alt="GitHub Stats"/>
-
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiAnantapalli215&theme=radical&border_radius=10" alt="GitHub Streak"/>
-
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiAnantapalli215&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
-
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiAnantapalli215&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="90%" alt="Activity Graph"/>
-</p>
-
 ---
-
 
 <div align="center">
 
@@ -130,14 +177,13 @@ const Me = {
 
 <img src="https://github-profile-trophy.vercel.app/?username=AbhiAnantapalli215&theme=radical&row=1&column=6&no-frame=false" />
 
-
 </div>
 
 ---
 
 <div align="center">
 
-### **PROFILE STATS** 
+### ✨🎀 **PROFILE STATS** 🎀✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AbhiAnantapalli215&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/AbhiAnantapalli215?label=Followers&style=social)
