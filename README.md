@@ -2,6 +2,8 @@
 
 <h1>👋 Hey there! I'm Abhishek</h1>
 
+</div>
+
 <div align="center" style="text-decoration:none">
 
   <!-- Email -->
