@@ -16,14 +16,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-  <!-- Portfolio -->
-  <a href="https://abhianantapalli.netlify.app" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Portfolio-4EA94B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-
   <!-- Resume -->
   <a href="https://abhianantapalli215.github.io/Resume/resume.pdf" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=github&logoColor=white" alt="Resume">
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://abhianantapalli.netlify.app" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Portfolio-4EA94B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 
 </div>
